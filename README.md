@@ -52,9 +52,13 @@ Cấu trúc:
 
 
 >Nguyễn Văn An - an.nguyen@gmail.com - đang học
+>
 Trần Thị Bình - binhtt@gmail.com - bảo lưu
+
 Lê Hoàng Nam - nam.le@gmail.com - đang học
+
 Phạm Minh Đức - duc.pham@gmail.com - nghỉ học
+
 
 ## AI Xuất
 
